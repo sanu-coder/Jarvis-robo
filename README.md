@@ -1,6 +1,6 @@
 # Jarvis-robo
 
-<img height="500px" width="500px" src="https://user-images.githubusercontent.com/72346984/118402867-7125a780-b689-11eb-94ec-ceb6e44fdfc1.jpg" alt="">
+<img height="500px" width="500px" src="https://user-images.githubusercontent.com/72346984/118402955-d8435c00-b689-11eb-9a91-cbf50537cd12.jpg" alt="">
 It is a virtual assistant like iron man Jarvis in Python. 
 
 It takes the command as input and follows the given instruction and generates the output accordingly. This project is only for beginners who has just recently started AI. In my code, it takes the following instructions : 
